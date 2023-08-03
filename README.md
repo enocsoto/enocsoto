@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Enoc Here 👋 </h1>
+<h1 align="center"> Hey Enoc Here 👋 || Hey Enoc aquí </h1>
 
 ---
 
@@ -6,12 +6,16 @@
   <img src="https://i.postimg.cc/bvgvZh28/Hello.gif" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
-
 I am a backend developer with over 5 years of experience in Node.js. I have knowledge of related technologies such as Nest.js, TypeScript, Git, Docker, and AWS services like SNS, SQS, and DynamoDB. My experience also extends to working with various databases including MySQL, MongoDB, and PostgreSQL. Additionally, I possess skills in integrating frontend technologies, particularly React. My focus is on building robust, scalable, and efficient applications to deliver exceptional user experiences.
+
+Soy un desarrollador backend  con más de 5 años de experiencia en Node.js, tengo conocimientos en tecnologías relacionadas como Nest.js, TypeScript, Git, Docker y servicios de AWS como SNS, SQS y DynamoDB. Mi experiencia se extiende al trabajo con diversas bases de datos como MySQL, MongoDB y PostgreSQL. Además, poseo habilidades en la integración de tecnologías frontend, en particular React. Mi enfoque está en construir aplicaciones robustas, escalables y eficientes para brindar experiencias de usuario excepcionales.
 
 :seedling: I’m currently learning <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">.
 
-## Tech Stack :computer:
+:seedling: Estoy aprendiendo <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">.
+
+
+## Tech Stack || Tecnologias :computer:
 
 <br>
 <table>
@@ -87,7 +91,7 @@ I am a backend developer with over 5 years of experience in Node.js. I have know
 </tbody>
 </table>
 
-## My Certifications :arrow_down:
+## My Certifications || Mis Certificados :arrow_down:
 
 - [API REST Nodejs desde cero usando MongoDB o MySQL] (https://www.udemy.com/certificate/UC-25cb547a-5715-44e9-aa40-989d6bc1f879)
 - [Node: De cero a expert] (https://www.udemy.com/certificate/UC-c80c9f3d-46ef-40bc-b8e0-fa64ef1f3250)
