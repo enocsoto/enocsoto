@@ -74,7 +74,7 @@ Soy un desarrollador backend  con más de 5 años de experiencia en Node.js, ten
 <tr>
 <td align="center" width="20%">
 <p><b><center>Nestjs</center></b></p> 
-<img height=65px src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667"> 
+<img height=65px src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png"> 
 </td>
 
 <td align="center" width="20%">
