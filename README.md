@@ -1,98 +1,73 @@
-<h1 align="center"> Hey Enoc Here 👋 || Hey Enoc aquí </h1>
+<h1 align="center">Enoc Soto</h1>
+<p align="center"><b>Senior Full-Stack Engineer</b> · Node.js / NestJS · React / Next.js · Java<br>Buenos Aires, Argentina · Remoto</p>
+<p align="center"><sub>Español · <a href="README.en.md">English</a></sub></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enoc-soto-arenilla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@titancodedev"><img src="https://img.shields.io/badge/YouTube-TitanCodeDev-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:tecenocdejesus@gmail.com"><img src="https://img.shields.io/badge/Email-tecenocdejesus%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- <a href="https://PORTAFOLIO_URL"><img src="https://img.shields.io/badge/Portafolio-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio"></a> -->
+</p>
 
 ---
 
+Construyo APIs y aplicaciones web desde 2015. Empecé con Node.js y Express en sistemas de mantenimiento aeronáutico; hoy desarrollo APIs en **Java 17/21** e interfaces en **Next.js** en Kenility. En el medio, lideré el backend de equipos con **NestJS**: definir alcance técnico, integrar microservicios con monolitos y sostener la arquitectura sprint a sprint.
+
+> Backend-first, full-stack when it matters.
+
+### Lo que hago bien
+
+- **APIs REST y microservicios** — NestJS, Express, Java · JWT, RBAC · Swagger
+- **Datos** — PostgreSQL, MySQL, MongoDB, DynamoDB, OpenSearch · TypeORM, Sequelize, Mongoose
+- **AWS y serverless** — Lambda, API Gateway, SQS/SNS, EventBridge, ECS, S3 · Docker, CI/CD
+- **Calidad** — tests unitarios y E2E, TDD, SOLID, patrón Repository
+- **Frontend** — React, Next.js, Redux, Angular
+
+### Trayectoria y stack
+
+<table><tr>
+<td width="58%" valign="top">
+
+### Hoy
+Backend NestJS Senior en **Kenility**. En el proyecto TruVideo desarrollo APIs en Java 17/21 y las interfaces en Next.js del SDK y del recorder.
+
+### Antes
+- **DIGITO / Moto Mecánica Argentina** — lideré el backend: alcance técnico, sprints en Jira e integración entre microservicios y monolitos.
+- **ACADEMIT** — consultoría: arquitecturas a medida en NestJS, AWS y Elasticsearch.
+- **Aeroclub del Atlántico** — 7 años de APIs: mantenimiento de aeronaves por horas de vuelo y plataforma académica con JWT/RBAC sobre Lambda y DynamoDB.
+
+</td>
+<td width="42%" valign="top">
+
+### Stack
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,java,express&theme=dark"><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,electron&theme=dark"><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,elasticsearch&theme=dark"><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,gitlab,jest,postman&theme=dark">
+
+</td>
+</tr></table>
+
+### Repositorios seleccionados
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [rag_chatbot_local](https://github.com/enocsoto/rag_chatbot_local) | RAG y chatbot local con modelos open source | Python |
+| [Orquestador-concurrente-de-modelos](https://github.com/enocsoto/Orquestador-concurrente-de-modelos-enoc-soto) | Orquestador concurrente de modelos | Python |
+| [ai-engineering-modulo-1](https://github.com/enocsoto/ai-engineering-modulo-1) | AsyncLLMManager con streaming, Pydantic y reintentos | Python |
+| [auth-blacklist](https://github.com/enocsoto/auth-blacklist) | Auth con NestJS: JWT, Passport, Sequelize y bcrypt | TypeScript |
+| [graphql-items](https://github.com/enocsoto/graphql-items) | API GraphQL en NestJS (Apollo, TypeORM): items y usuarios con relaciones y seed | TypeScript |
+| [drinks-be](https://github.com/enocsoto/drinks-be) · [drinks-fe](https://github.com/enocsoto/drinks-fe) | Sistema para un billar: API NestJS + Fastify + MongoDB con JWT y Swagger; front en Next.js 15 / React 19 | TypeScript |
+
+### Contenido
+
+En [**TitanCodeDev**](https://www.youtube.com/@titancodedev) publico la serie *JavaScript con IA en 30 días*.
+
+### Actividad
+
 <p align="center">
-  <img src="https://i.postimg.cc/bvgvZh28/Hello.gif" width="80%" title="Intro Card" alt="Intro Card">
+  <img src="https://github-readme-stats.vercel.app/api?username=enocsoto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3178C6&icon_color=3178C6&text_color=c9d1d9&hide=contribs&hide_rank=true&custom_title=GitHub" height="165">
+  <img src="https://streak-stats.demolab.com?user=enocsoto&hide_border=true&background=0d1117&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&stroke=30363d&currStreakNum=ffffff&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" height="165">
 </p>
 
-I am a backend developer with over 5 years of experience in Node.js. I have knowledge of related technologies such as Nest.js, TypeScript, Git, Docker, and AWS services like SNS, SQS, and DynamoDB. My experience also extends to working with various databases including MySQL, MongoDB, and PostgreSQL. Additionally, I possess skills in integrating frontend technologies, particularly React. My focus is on building robust, scalable, and efficient applications to deliver exceptional user experiences.
-
-Soy un desarrollador backend  con más de 5 años de experiencia en Node.js, tengo conocimientos en tecnologías relacionadas como Nest.js, TypeScript, Git, Docker y servicios de AWS como SNS, SQS y DynamoDB. Mi experiencia se extiende al trabajo con diversas bases de datos como MySQL, MongoDB y PostgreSQL. Además, poseo habilidades en la integración de tecnologías frontend, en particular React. Mi enfoque está en construir aplicaciones robustas, escalables y eficientes para brindar experiencias de usuario excepcionales.
-
-:seedling: I’m currently learning <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">.
-
-:seedling: Estoy aprendiendo <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">.
-
-
-## Tech Stack || Tecnologias :computer:
-
-<br>
-<table>
-<tbody>
-<tr>
-<td align="center" width="20%">
-<p><b><center>Docker</center></b></p> 
-<img height=65px src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Git</center></b></p> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>AWS</center></b></p> 
-<img height=65px src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<p><b><center>Javascript</center></b></p> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Typescript</center></b></p> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Node.js</center></b></p> 
-<img height=65px src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<p><b><center>MongoDB</center></b></p> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Mysql</center></b></p> 
-<img height=65px src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-Transparent-Images.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Postgresql</center></b></p> 
-<img height=65px src="https://1000marcas.net/wp-content/uploads/2021/06/PostgreSQL-Logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<p><b><center>Nestjs</center></b></p> 
-<img height=65px src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>Express</center></b></p> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"> 
-</td>
-
-<td align="center" width="20%">
-<p><b><center>React</center></b></p> 
-<img height=65px src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
-## My Certifications || Mis Certificados :arrow_down:
-
-- [API REST Nodejs desde cero usando MongoDB o MySQL] (https://www.udemy.com/certificate/UC-25cb547a-5715-44e9-aa40-989d6bc1f879)
-- [Node: De cero a expert] (https://www.udemy.com/certificate/UC-c80c9f3d-46ef-40bc-b8e0-fa64ef1f3250)
-- [Curso de HTML5 desde cero: El más completo en Español] (https://www.udemy.com/certificate/UC-9559ac39-7749-4ddc-8a1b-e732966f9b2a)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0d1117&height=90&section=footer" width="100%">
